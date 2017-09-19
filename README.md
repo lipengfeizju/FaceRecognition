@@ -17,7 +17,8 @@ However, since the buffer size for each variable in Windows is restricted to abo
 
 # Extension #
 
-Result of PCA in Eigenface
+## Result of PCA in Eigenface ##
 ![pic1](img/1.jpg)
-Result of Isomap
+
+## Result of Isomap ##
 ![pic2](img/2.png)
