@@ -9,7 +9,15 @@ This is a implementation for the Eigenface algorithm introduce by the paper “E
 
 However, since the buffer size for each variable in Windows is restricted to about 2Mb, when we convert this version from Mac OS to Windows, it continues to prompt out errors. We finally find that the variable storing all the image data is empty since the variable is too large. This is a mac version.
 
-#How to use#
+# How to use #
 
 1.	If you want to see the source code, you can enter source_code. 
 2.	You can also compile the program and put the .exe
+
+
+# Extension #
+
+Result of PCA in Eigenface
+![pic1](img/1.jpg)
+Result of Isomap
+![pic2](img/2.png)
