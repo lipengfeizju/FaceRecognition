@@ -2,8 +2,8 @@
 //  main.c
 //  Test
 //
-//  Created by ³Â»¶ on 2016/12/12.
-//  Copyright ? 2016Äê ³Â»¶. All rights reserved.
+//  Created by Team 3 on 2016/12/12.
+//  Copyright 2016Äê Team 3. All rights reserved.
 //
 
 #include <stdio.h>
