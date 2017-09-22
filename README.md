@@ -5,7 +5,8 @@ This README would normally document whatever steps are necessary to get your app
 
 # What is this repository for? #
 
-This is a implementation for the Eigenface algorithm introduce by the paper “Eigenface for recognition”. It is a really simple algorithm but our main contribution is to implement all the matrix calculation in C language include the multiply and inverse of matrix and our implementation is the fastest version in our class.
+This is an implementation for the Eigenface algorithm introduced by the paper “Eigenface for recognition”. It is a really simple algorithm but our main contribution is to implement all the matrix calculation in C language including the multiply and inverse of matrix. And our implementation is the fasterest version in the whole class.
+
 
 However, since the buffer size for each variable in Windows is restricted to about 2Mb, when we convert this version from Mac OS to Windows, it continues to prompt out errors. We finally find that the variable storing all the image data is empty since the variable is too large. This is a mac version.
 
